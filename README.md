@@ -1,10 +1,7 @@
 # Hi 👋, I'm Kessoula Rayane Ayoub
 
-### CS Student
+### I'm a CS Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rayane-cs&label=Profile views&color=0e75b6&style=flat" alt="Rayane-cs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rayane-cs" alt="Rayane-cs" /></a> </p>
 
 - 🔭 I'm currently working on **App design , Web devlopement & app dev using flutter**
 
