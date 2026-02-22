@@ -34,9 +34,6 @@
     </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
     	<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
     </a> 
-    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    	<img src="https://skillicons.dev/icons?i=assembly" alt="assembly" width="40" height="40"/>
-	</a>
     <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
     	<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
 	</a>
