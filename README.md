@@ -5,7 +5,7 @@
 
 - I'm currently working on **Web development (Front-end)**
 
-- I'm currently learning **PostgreSQL**
+- I'm currently learning **PostgreSQL** & **UX Design**
 
 - planning for learning **app dev using flutter**
 
